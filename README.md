@@ -104,8 +104,8 @@ Enter:
 The system predicts:
 
 * ⏳ Estimated Journey Duration
-* 📊 Duration Visualization
 * 📋 Journey Summary
+* 📊 Duration Visualization
 
 ---
 
