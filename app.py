@@ -176,6 +176,6 @@ Features Used:
 Target Variable:
 - Journey Duration (Hours)
 
-Developed as part of the Machine Learning-Based Train Journey Time Prediction System.
+Developed as part of the Machine Learning Internship Program at Sysslan IT Solutions.
 '''
 )
