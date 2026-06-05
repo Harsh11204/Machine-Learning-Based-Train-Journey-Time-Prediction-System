@@ -154,8 +154,6 @@ Train-Journey-Time-Prediction/
 
 **Harsh Verma**
 
-B.Tech Computer Science & Engineering
-
 📧 Email: [harshverma11204@gmail.com](mailto:harshverma11204@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/harsh-verma-1b3857287
