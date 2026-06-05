@@ -110,6 +110,10 @@ if st.sidebar.button("Predict Journey Duration"):
             f"{hours}h {minutes}m"
         )
 
+    st.warning(
+    "⚠️ Predictions are based on historical training data and may differ from actual railway schedules."
+    )
+
     # =========================
     # Input Summary
     # =========================
